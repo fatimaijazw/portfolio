@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://warmhearted-industry-928484.framer.app/sitemap.xml
